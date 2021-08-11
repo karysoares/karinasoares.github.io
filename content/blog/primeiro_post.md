@@ -3,9 +3,7 @@ author = "Karina Soares"
 title = "Primeiro post"
 date = "2021-04-11"
 description = "Meu primeiro post"
-tags = [
-    "nada",
-]
+
 draft = true
 +++
 
