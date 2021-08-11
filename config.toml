@@ -8,7 +8,7 @@ googleAnalytics = ""
 theme = "hugo-sustain"
 
 [permalinks]
-  post = "/:2021/:agosto/:11/:slug"
+  post = "/2021/agosto/11/"
 
 [params]
   avatar = "img/karina_200px.png"
