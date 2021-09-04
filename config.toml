@@ -8,7 +8,7 @@ googleAnalytics = ""
 theme = "hugo-sustain"
 
 [permalinks]
-  post = "/2021/agosto/11/"
+  post = "/2021/set"
 
 [params]
   avatar = "img/karina_200px.png"
@@ -24,7 +24,7 @@ theme = "hugo-sustain"
   Email         = "karinasoares@tuta.io"
   Twitter       = "Karysoares"
   LinkedIn      = "soareskarina"
-  Stackoverflow = "https://stackoverflow.com/users/9448591/karina-soares"
+  Stackoverflow = "/users/9448591/karina-soares"
   Medium        = "karysoaress"
   Telegram      = "Karysoares"
 
