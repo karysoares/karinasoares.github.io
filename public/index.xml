@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Karina Soares dos Santos</title><link>.me/</link><description>Recent content on Karina Soares dos Santos</description><generator>Hugo -- gohugo.io</generator><language>pt-BR</language><atom:link href=".me/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karina Soares dos Santos</title>
+    <link>https://karinasoares.me/</link>
+    <description>Recent content on Karina Soares dos Santos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Sat, 02 Oct 2021 14:42:15 -0300</lastBuildDate><atom:link href="https://karinasoares.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Por onde começar?</title>
+      <link>https://karinasoares.me/blog/teste/</link>
+      <pubDate>Sat, 02 Oct 2021 15:16:57 -0300</pubDate>
+      
+      <guid>https://karinasoares.me/blog/teste/</guid>
+      <description>Minha trajetória</description>
+    </item>
+    
+    <item>
+      <title>Post1 - como começar um blog</title>
+      <link>https://karinasoares.me/blog/post1/</link>
+      <pubDate>Sat, 02 Oct 2021 15:16:07 -0300</pubDate>
+      
+      <guid>https://karinasoares.me/blog/post1/</guid>
+      <description>Já gostaria de decepcionar todo mundo e dizer que eu não faço a menor ideia.</description>
+    </item>
+    
+    <item>
+      <title>Default Function Example</title>
+      <link>https://karinasoares.me/blog/default-function-example/</link>
+      <pubDate>Sat, 02 Oct 2021 14:38:57 -0300</pubDate>
+      
+      <guid>https://karinasoares.me/blog/default-function-example/</guid>
+      <description>{{ index .Params &amp;ldquo;font&amp;rdquo; | default &amp;ldquo;Roboto&amp;rdquo; }} {{ default &amp;ldquo;Roboto&amp;rdquo; (index .Params &amp;ldquo;font&amp;rdquo;) }}</description>
+    </item>
+    
+    <item>
+      <title>Corpus annotation</title>
+      <link>https://karinasoares.me/projects/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://karinasoares.me/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Karina Soares dos Santos</title><link>.me/categories/</link><description>Recent content in Categories on Karina Soares dos Santos</description><generator>Hugo -- gohugo.io</generator><language>pt-BR</language><atom:link href=".me/categories/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Karina Soares dos Santos</title>
+    <link>https://karinasoares.me/categories/</link>
+    <description>Recent content in Categories on Karina Soares dos Santos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate><atom:link href="https://karinasoares.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>projects</title>
+      <link>https://karinasoares.me/categories/projects/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://karinasoares.me/categories/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>.me/categories/</loc></url><url><loc>.me/</loc></url><url><loc>.me/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://karinasoares.me/blog/</loc>
+    <lastmod>2021-10-02T15:16:57-03:00</lastmod>
+  </url><url>
+    <loc>https://karinasoares.me/blog/teste/</loc>
+    <lastmod>2021-10-02T15:16:57-03:00</lastmod>
+  </url><url>
+    <loc>https://karinasoares.me/blog/post1/</loc>
+    <lastmod>2021-10-02T15:16:07-03:00</lastmod>
+  </url><url>
+    <loc>https://karinasoares.me/</loc>
+    <lastmod>2021-10-02T14:42:15-03:00</lastmod>
+  </url><url>
+    <loc>https://karinasoares.me/blog/default-function-example/</loc>
+    <lastmod>2021-10-02T14:38:57-03:00</lastmod>
+  </url><url>
+    <loc>https://karinasoares.me/categories/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://karinasoares.me/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://karinasoares.me/tags/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://karinasoares.me/categories/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://karinasoares.me/tags/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url>
+</urlset>
