@@ -4,4 +4,4 @@ date: 2021-10-02T14:42:15-03:00
 draft: false
 cascade:
 ---
-Linguista, computeira e outras coisas aleatórias.
+Linguista computacional, analista de Inteligência Artificial Sênior na americanas.sa, membro das comunidades: WiMLDS e Hackerspace Maringá.
