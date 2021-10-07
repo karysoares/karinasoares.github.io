@@ -11,7 +11,7 @@ theme = "hugo-sustain"
   post = "/:year/:month/:title/"
 
 [params]
-  avatar = "img/pp.png"
+  avatar = "img/karina.png"
   author = "Karina Soares dos Santos"
   description = ""
 
