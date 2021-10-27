@@ -13,7 +13,7 @@ theme = "hugo-sustain"
 [params]
   avatar = "img/karina.png"
   author = "Karina Soares dos Santos"
-  description = ""
+  description = "Este é o meu site pessoal e nele eu quero compartilhar um pouco dos meus projetos e praticar a escrita criativa ou técnica, ainda não sei."
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
